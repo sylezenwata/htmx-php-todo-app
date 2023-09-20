@@ -47,7 +47,7 @@ if ($_GET['type'] === 'delete_todo') {
       'todo_id' => $todo_id
     ) = $_GET;
 
-    $todos = delete_database($todo_id);
+    $todos = delete_from_database($todo_id);
 
     $todos_items = render_todo_items($todos);
 

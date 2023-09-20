@@ -71,7 +71,7 @@ function update_database(int $todo_id)
   }
 }
 
-function delete_database(int $todo_id)
+function delete_from_database(int $todo_id)
 {
   try {
     $todos = read_database();
