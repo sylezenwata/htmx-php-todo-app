@@ -1,0 +1,28 @@
+{
+	"name": "htmx-php-todo-app",
+	"description": "Simple todo app with htmx and php",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"css": "tailwindcss -i ./assets/css/style.css -o ./dist/css/style.css",
+		"css:dev": "tailwindcss -i ./assets/css/style.css -o ./dist/css/style.css --watch"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sylezenwata/htmx-php-todo-app.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/sylezenwata/htmx-php-todo-app/issues"
+	},
+	"homepage": "https://github.com/sylezenwata/htmx-php-todo-app#readme",
+	"devDependencies": {
+		"tailwindcss": "^3.3.3"
+	},
+	"browserslist": [
+		"last 4 version",
+		"> 1%"
+	]
+}

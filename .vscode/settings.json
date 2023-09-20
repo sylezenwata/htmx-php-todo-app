@@ -1,0 +1,24 @@
+{
+	"[json]": {
+		"editor.tabSize": 2
+	},
+	"[html]": {
+		"editor.tabSize": 2
+	},
+	"[xml]": {
+		"editor.tabSize": 2
+	},
+	"[css]": {
+		"editor.tabSize": 2
+	},
+	"[javascript]": {
+		"editor.tabSize": 2
+	},
+	"[typescript]": {
+		"editor.tabSize": 2
+	},
+	"[php]": {
+		"editor.tabSize": 2
+	},
+	"files.autoSave": "off"
+}
