@@ -1,6 +1,12 @@
 # htmx-php-todo-app
 
-Simple todo app with htmx and php
+Simple todo app with htmx and PHP
+
+## Install packages
+
+```javascript
+npm install
+```
 
 ## Build css
 
